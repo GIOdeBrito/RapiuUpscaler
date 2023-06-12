@@ -1,0 +1,17 @@
+F:\Projetos\C#\Upscaler\bin\Debug\net6.0-windows\Upscaler.exe
+F:\Projetos\C#\Upscaler\bin\Debug\net6.0-windows\Upscaler.deps.json
+F:\Projetos\C#\Upscaler\bin\Debug\net6.0-windows\Upscaler.runtimeconfig.json
+F:\Projetos\C#\Upscaler\bin\Debug\net6.0-windows\Upscaler.dll
+F:\Projetos\C#\Upscaler\bin\Debug\net6.0-windows\Upscaler.pdb
+F:\Projetos\C#\Upscaler\obj\Debug\net6.0-windows\Upscaler.csproj.AssemblyReference.cache
+F:\Projetos\C#\Upscaler\obj\Debug\net6.0-windows\Upscaler.Form1.resources
+F:\Projetos\C#\Upscaler\obj\Debug\net6.0-windows\Upscaler.csproj.GenerateResource.cache
+F:\Projetos\C#\Upscaler\obj\Debug\net6.0-windows\Upscaler.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projetos\C#\Upscaler\obj\Debug\net6.0-windows\Upscaler.AssemblyInfoInputs.cache
+F:\Projetos\C#\Upscaler\obj\Debug\net6.0-windows\Upscaler.AssemblyInfo.cs
+F:\Projetos\C#\Upscaler\obj\Debug\net6.0-windows\Upscaler.csproj.CoreCompileInputs.cache
+F:\Projetos\C#\Upscaler\obj\Debug\net6.0-windows\Upscaler.dll
+F:\Projetos\C#\Upscaler\obj\Debug\net6.0-windows\refint\Upscaler.dll
+F:\Projetos\C#\Upscaler\obj\Debug\net6.0-windows\Upscaler.pdb
+F:\Projetos\C#\Upscaler\obj\Debug\net6.0-windows\Upscaler.genruntimeconfig.cache
+F:\Projetos\C#\Upscaler\obj\Debug\net6.0-windows\ref\Upscaler.dll
